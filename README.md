@@ -57,3 +57,17 @@ It was cleaned and transformed within Power BI using Power Query and DAX express
 
 ## 📁 Folder Structure
 
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+> Built with ❤️ by [mischa24](https://github.com/mischa24)
+
+
