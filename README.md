@@ -1,3 +1,9 @@
+![Other License](https://img.shields.io/badge/license-Other-blue)
+![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-yellow)
+![Includes KPIs](https://img.shields.io/badge/KPIs-Included-blueviolet)
+![Custom DAX](https://img.shields.io/badge/DAX-Custom_Expressions-important)
+![Status](https://img.shields.io/badge/status-Final-green)
+
 # 📦 Power BI - Shipping Performance Analysis
 
 This Power BI project analyzes order delivery performance across product containers and shipping methods.  
